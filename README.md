@@ -1,8 +1,8 @@
 # Uganda Community Code
 
-I am acquiring technical skills to solve problems in my community.
+I am building technical skills to solve practical problems in my community.
 
-This repository documents my journey learning JavaScript from first principles — using the hand-teaches-brain method: writing logic on paper before touching an IDE.
+This repository documents my journey learning JavaScript from first principles , using the hand-teaches-brain method: writing logic on paper before touching an IDE.
 
 ## Goal
 Build offline-first, low-resource tools for community challenges in Uganda.

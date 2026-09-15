@@ -16,7 +16,7 @@ Build offline-first, low-resource tools for community challenges in Uganda.
 
 ### Phase 1: Foundations
 - [x] [01-functions](./01-functions/)
-- [ ] [02-arrays](./02-arrays/)
+- [x ] [02-arrays](./02-arrays/)
 - [ ] 03-objects
 - [ ] 04-loops
 

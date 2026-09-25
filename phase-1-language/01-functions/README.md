@@ -15,5 +15,6 @@ Wrote all logic by hand first. Drilled 4 stages: copy, recall, modify, create.
 - `greet-child.js` — first function: greets a community learner by name
 
 ## How to Run
+Navigate to this folder and run the JavaScript file using Node.js:
 ```bash
-node 01-functions/greet-child.js
+node greet-child.js

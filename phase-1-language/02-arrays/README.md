@@ -18,5 +18,6 @@ Hand-written drills first (black, blue, red pens). Four stages: copy, recall, mo
 - `children-list.js` — manages a list of children in the community program
 
 ## How to Run
+Navigate to this folder and run the JavaScript file using Node.js:
 ```bash
 node children-list.js
